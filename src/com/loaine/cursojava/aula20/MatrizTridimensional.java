@@ -37,6 +37,7 @@ public class MatrizTridimensional {
 			}
 		}
 		
+		System.out.println();
 		System.out.println("Soma total: " + soma);
 		System.out.println("Soma dos pares: " + somaPares);
 		System.out.println("Soma dos ímpares: " + somaImpares);
