@@ -34,6 +34,5 @@ public class MatrizIrregular {
 				System.out.println(nomesFilhos[i][j]);
 			}
 		}
-		
 	}
 }
