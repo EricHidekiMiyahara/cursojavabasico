@@ -8,7 +8,7 @@ public class Exer04 {
 
 		Scanner scan = new Scanner(System.in);
 		
-		String[][] compromissos = new String [31	][24];
+		String[][] compromissos = new String [31][24];
 		
 		boolean sair = false;
 		byte opcao;
@@ -18,7 +18,6 @@ public class Exer04 {
 			System.out.println("Digite 1 para adicionar compromisso.");
 			System.out.println("Digite 2 para verificar compromisso.");
 			System.out.println("Digite 0 para sair.");
-			
 			opcao = scan.nextByte();
 			
 			if(opcao == 1) { //adicionar compromisso
