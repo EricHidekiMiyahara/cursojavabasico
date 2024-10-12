@@ -16,8 +16,5 @@ public class Pacotes {
 	Exer06 exer06;
 	Exer05 exer05;
 	Exer04 exer04;
-	
-	
     }
-
 }
